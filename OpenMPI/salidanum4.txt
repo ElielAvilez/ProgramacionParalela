@@ -1,0 +1,3 @@
+El mínimo de num4.txt es: 0
+El máximo de num4.txt es: 87
+El promedio de num4.txt es: 23.818182

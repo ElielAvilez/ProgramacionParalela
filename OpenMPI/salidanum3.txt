@@ -1,0 +1,3 @@
+El mínimo de num3.txt es: 0
+El máximo de num3.txt es: 56
+El promedio de num3.txt es: 15.000000

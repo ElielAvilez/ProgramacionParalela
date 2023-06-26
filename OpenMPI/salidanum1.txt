@@ -1,0 +1,3 @@
+El mínimo de num1.txt es: 0
+El máximo de num1.txt es: 13
+El promedio de num1.txt es: 5.181818
